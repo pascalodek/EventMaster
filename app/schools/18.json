@@ -1,0 +1,16 @@
+{
+        "id":"18",
+        "name": "WEMA ACADEMY",
+        "status": "PRIVATE",
+        "sponsor": "PRIVATE INDIVIDUAL",
+        "gender": "MIXED",
+        "board": "DAY ONLY",
+        "type": "ORDINARY",
+        "province": "WESTERN",
+        "county": "KAKAMEGA",
+        "district": "KAKAMEGA",
+        "division": "SHINYALU",
+        "location": "KHAYEGA",
+        "constituency": "SHINYALU",
+        "geolocation": "(0.20559000000, 34.77147000000)"
+    }

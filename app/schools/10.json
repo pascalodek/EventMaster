@@ -1,0 +1,16 @@
+{
+        "id":"10",
+        "name": "KABOROM ACK",
+        "status": "PUBLIC",
+        "sponsor": "RELIGIOUS ORGANIZATION",
+        "gender": "MIXED",
+        "board": "DAY ONLY",
+        "type": "ORDINARY",
+        "province": "WESTERN",
+        "county": "BUNGOMA",
+        "district": "MT ELGON",
+        "division": "KAPTAMA",
+        "location": "KAPTAMA",
+        "constituency": "MT ELGON",
+        "geolocation": "(0.86975700000, 34.79286200000)"
+    }

@@ -1,0 +1,16 @@
+{
+        "id":"6",
+        "name": "SUD ACADEMY PRI",
+        "status": "PRIVATE",
+        "sponsor": "PRIVATE INDIVIDUAL",
+        "gender": "MIXED",
+        "board": "DAY ONLY",
+        "type": "ORDINARY",
+        "province": "NAIROBI",
+        "county": "NAIROBI",
+        "district": "NAIROBI",
+        "division": "WESTLANDS",
+        "location": "KANGEMI",
+        "constituency": "WESTLANDS",
+        "geolocation": "(-1.27260600000, 36.73313800000)"
+    }

@@ -1,0 +1,16 @@
+{
+        "id":"11",
+        "name": "SHIDODO PRI SCH",
+        "status": "PUBLIC",
+        "sponsor": "RELIGIOUS ORGANIZATION",
+        "gender": "MIXED",
+        "board": "DAY ONLY",
+        "type": "ORDINARY",
+        "province": "WESTERN",
+        "county": "KAKAMEGA",
+        "district": "KAKAMEGA",
+        "division": "SHINYALU",
+        "location": "KHAYEGA",
+        "constituency": "SHINYALU",
+        "geolocation": "(0.23421100000, 34.77438400000)"
+    }

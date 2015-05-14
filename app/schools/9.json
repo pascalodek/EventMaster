@@ -1,0 +1,16 @@
+{
+        "id":"9",
+        "name": "ST JOHN'S ACADEMY MASINDET",
+        "status": "PRIVATE",
+        "sponsor": "NGO/CBO",
+        "gender": "MIXED",
+        "board": "DAY ONLY",
+        "type": "ORDINARY",
+        "province": "WESTERN",
+        "county": "BUNGOMA",
+        "district": "MT ELGON",
+        "division": "KAPTAMA",
+        "location": "CHEMOGE",
+        "constituency": "MT ELGON",
+        "geolocation": "(0.83761800000, 34.73643800000)"
+    }

@@ -1,0 +1,16 @@
+{
+        "id":"4",
+        "name": "ST EDGAR PRI SCH",
+        "status": "PRIVATE",
+        "sponsor": "PRIVATE INDIVIDUAL",
+        "gender": "MIXED",
+        "board": "DAY ONLY",
+        "type": "ORDINARY",
+        "province": "CENTRAL",
+        "county": "KIAMBU",
+        "district": "KIAMBU",
+        "division": "KIKUYU",
+        "location": "KINOO",
+        "constituency": "KABETE",
+        "geolocation": "(-1.25614500000, 36.72085200000)"
+    }

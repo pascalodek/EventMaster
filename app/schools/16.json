@@ -1,0 +1,16 @@
+{
+        "id":"16",
+        "name": "SIRGOI ACK PRIMARY",
+        "status": "PUBLIC",
+        "sponsor": "CENTRAL GOVERNMENT/DEB",
+        "gender": "MIXED",
+        "board": "DAY ONLY",
+        "type": "ORDINARY",
+        "province": "WESTERN",
+        "county": "BUNGOMA",
+        "district": "MT ELGON",
+        "division": "KAPTAMA",
+        "location": "KAPTAMA",
+        "constituency": "MT ELGON",
+        "geolocation": "(0.88937700000, 34.76955500000)"
+    }

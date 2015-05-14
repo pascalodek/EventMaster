@@ -1,0 +1,16 @@
+{
+        "id":"2",
+        "name": "FRENCH SCH PRI",
+        "status": "PRIVATE",
+        "sponsor": "PRIVATE INDIVIDUAL",
+        "gender": "MIXED",
+        "board": "DAY ONLY",
+        "type": "ORDINARY",
+        "province": "NAIROBI",
+        "county": "NAIROBI",
+        "district": "NAIROBI",
+        "division": "WESTLANDS",
+        "location": "KILIMANI",
+        "constituency": "DAGORETTI",
+        "geolocation": "(-1.29016000000, 36.78836000000)"
+    }
